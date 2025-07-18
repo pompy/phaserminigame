@@ -3,7 +3,7 @@
 
  php -S localhost:81
 
-    ![Game Screenshot](/screenshot/screenshot.png)
+    ![Game Screenshot](./screenshot/screenshot.png)
 
 
 
