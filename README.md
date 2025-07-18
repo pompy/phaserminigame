@@ -3,7 +3,7 @@
 
  php -S localhost:81
 
-    ![Game Screenshot](https://github.com/pompy/phaserminigame/blob/b147a1061281ee610557564322cc5c2bca1e0a05/screenshot/screenshot.png)
+    ![Game Screenshot](/screenshot/screenshot.png)
 
 
 
